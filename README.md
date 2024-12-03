@@ -7,6 +7,14 @@ The repository consists of a Max patch and an arduino file. The Max patch drives
 
 More info at www.timbrearchitects.com/hydrala.html
 
+Installation Instructions:
+
+Requires Max MSP (see www.cycling74.com).
+
+.wav files are optional - different sounds can be used as the source for the instruments.
+
+The arduino board should be loaded with the .ino file, and change the pin numbers as necessary for your setup.
+
 Opportunities for further development:
 
 The instruments that drive the sound are basic and simply change pitch with the change in distance. But there are so many interactive possibilities that could include "gestures" or that could react to fast changes in distance, altering the timbre of the sound. There is a lot of improvment to be made in the instrument and interactive design.
