@@ -5,6 +5,8 @@ Working in the public realm and interacting with visitors to the sculpture gave 
 
 The repository consists of a Max patch and an arduino file. The Max patch drives four channels of audio, receiving serial input from an Arduino board that has four ultrasonic distance detectors and LEDs. Each channel of audio is controlled independantly by the corresponding distance detector. The arduino file drives four HC-SR04 distance detectors and also changes an LED placed inside the housing of the distance detector that adjusts brightness depdending on the distance readout.
 
+More info at www.timbrearchitects.com/hydrala.html
+
 Opportunities for further development:
 
 The instruments that drive the sound are basic and simply change pitch with the change in distance. But there are so many interactive possibilities that could include "gestures" or that could react to fast changes in distance, altering the timbre of the sound. There is a lot of improvment to be made in the instrument and interactive design.
